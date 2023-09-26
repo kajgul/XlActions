@@ -1,0 +1,24 @@
+C:\Users\kajetan.gulbinowicz\source\repos\XLWydruk\XLWydruk\obj\Debug\XLWydruk.csprojAssemblyReference.cache
+C:\Users\kajetan.gulbinowicz\source\repos\XLWydruk\XLWydruk\obj\Debug\XLWydruk.csproj.CoreCompileInputs.cache
+C:\Users\kajetan.gulbinowicz\source\repos\XLWydruk\XLWydruk\bin\Debug\XLWydruk.exe.config
+C:\Users\kajetan.gulbinowicz\source\repos\XLWydruk\XLWydruk\bin\Debug\XLWydruk.exe
+C:\Users\kajetan.gulbinowicz\source\repos\XLWydruk\XLWydruk\bin\Debug\XLWydruk.pdb
+C:\Users\kajetan.gulbinowicz\source\repos\XLWydruk\XLWydruk\bin\Debug\cdn_api20220.net.dll
+C:\Users\kajetan.gulbinowicz\source\repos\XLWydruk\XLWydruk\obj\Debug\XLWydruk.csproj.CopyComplete
+C:\Users\kajetan.gulbinowicz\source\repos\XLWydruk\XLWydruk\obj\Debug\XLWydruk.exe
+C:\Users\kajetan.gulbinowicz\source\repos\XLWydruk\XLWydruk\obj\Debug\XLWydruk.pdb
+C:\Program Files (x86)\Comarch ERP XL 2022.0\XLWydruk\XLWydruk\bin\Debug\XLWydruk.exe.config
+C:\Program Files (x86)\Comarch ERP XL 2022.0\XLWydruk\XLWydruk\bin\Debug\XLWydruk.exe
+C:\Program Files (x86)\Comarch ERP XL 2022.0\XLWydruk\XLWydruk\bin\Debug\XLWydruk.pdb
+C:\Program Files (x86)\Comarch ERP XL 2022.0\XLWydruk\XLWydruk\bin\Debug\cdn_api20220.net.dll
+C:\Program Files (x86)\Comarch ERP XL 2022.0\XLWydruk\XLWydruk\obj\Debug\XLWydruk.csprojAssemblyReference.cache
+C:\Program Files (x86)\Comarch ERP XL 2022.0\XLWydruk\XLWydruk\obj\Debug\XLWydruk.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Comarch ERP XL 2022.0\XLWydruk\XLWydruk\obj\Debug\XLWydruk.csproj.CopyComplete
+C:\Program Files (x86)\Comarch ERP XL 2022.0\XLWydruk\XLWydruk\obj\Debug\XLWydruk.exe
+C:\Program Files (x86)\Comarch ERP XL 2022.0\XLWydruk\XLWydruk\obj\Debug\XLWydruk.pdb
+C:\Program Files (x86)\Comarch ERP XL 2022.0\XLWydruk\XLWydruk\bin\Debug\Dapper.dll
+C:\Program Files (x86)\Comarch ERP XL 2022.0\XLWydruk\XLWydruk\bin\Debug\Dapper.xml
+C:\Program Files (x86)\Comarch ERP XL 2022.0\XLWydruk\XLWydruk\bin\Debug\Newtonsoft.Json.dll
+C:\Program Files (x86)\Comarch ERP XL 2022.0\XLWydruk\XLWydruk\bin\Debug\Newtonsoft.Json.xml
+C:\Program Files (x86)\Comarch ERP XL 2022.0\XLWydruk\XLWydruk\bin\Debug\XlActions.dll
+C:\Program Files (x86)\Comarch ERP XL 2022.0\XLWydruk\XLWydruk\bin\Debug\XlActions.pdb
