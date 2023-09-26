@@ -1,0 +1,12 @@
+C:\Program Files (x86)\Comarch ERP XL 2022.0\XLWydruk\XlActions\bin\x86\Debug\XlActions.dll
+C:\Program Files (x86)\Comarch ERP XL 2022.0\XLWydruk\XlActions\bin\x86\Debug\XlActions.pdb
+C:\Program Files (x86)\Comarch ERP XL 2022.0\XLWydruk\XlActions\bin\x86\Debug\cdn_api20220.net.dll
+C:\Program Files (x86)\Comarch ERP XL 2022.0\XLWydruk\XlActions\bin\x86\Debug\Newtonsoft.Json.dll
+C:\Program Files (x86)\Comarch ERP XL 2022.0\XLWydruk\XlActions\bin\x86\Debug\Newtonsoft.Json.xml
+C:\Program Files (x86)\Comarch ERP XL 2022.0\XLWydruk\XlActions\obj\x86\Debug\XlActions.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Comarch ERP XL 2022.0\XLWydruk\XlActions\obj\x86\Debug\XlActions.csproj.CopyComplete
+C:\Program Files (x86)\Comarch ERP XL 2022.0\XLWydruk\XlActions\obj\x86\Debug\XlActions.dll
+C:\Program Files (x86)\Comarch ERP XL 2022.0\XLWydruk\XlActions\obj\x86\Debug\XlActions.pdb
+C:\Program Files (x86)\Comarch ERP XL 2022.0\XLWydruk\XlActions\bin\x86\Debug\Dapper.dll
+C:\Program Files (x86)\Comarch ERP XL 2022.0\XLWydruk\XlActions\bin\x86\Debug\Dapper.xml
+C:\Program Files (x86)\Comarch ERP XL 2022.0\XLWydruk\XlActions\obj\x86\Debug\XlActions.csprojAssemblyReference.cache
