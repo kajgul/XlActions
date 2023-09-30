@@ -1,0 +1,58 @@
+﻿<Window x:Class="XlPrinterUserController.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:XlPrinterUserController"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid ShowGridLines="false">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        
+        <Grid.RowDefinitions>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+
+        <TextBlock Text="Serwer klucza" Grid.Column="0" Grid.Row="0" Name="keyServerTextBlock" VerticalAlignment="Center" HorizontalAlignment="Center"></TextBlock>
+        <TextBox Name="keyServerTextBox" Grid.Column="1" Grid.Row="0" Text=""></TextBox>
+
+        <TextBlock Text="Baza XL" Grid.Column="0" Grid.Row="1" Name="xlBaseTextBlock" VerticalAlignment="Center" HorizontalAlignment="Center"></TextBlock>
+        <TextBox Name="xlBaseTextBox" Grid.Column="1" Grid.Row="1" Text=""></TextBox>
+
+        <TextBlock Text="Użytkownik XL" Grid.Column="0" Grid.Row="3" Name="xlUserTextBlock" VerticalAlignment="Center" HorizontalAlignment="Center"></TextBlock>
+        <TextBox Name="xlUserTextBox" Grid.Column="1" Grid.Row="3" Text=""></TextBox>
+
+        <TextBlock Text="Hasło XL" Grid.Column="0" Grid.Row="4" Name="xlPasswordTextBlock" VerticalAlignment="Center" HorizontalAlignment="Center"></TextBlock>
+        <TextBox Name="xlPasswordTextBox" Grid.Column="1" Grid.Row="4" Text=""></TextBox>
+
+        <TextBlock Text="Serwer bazy danych" Grid.Column="0" Grid.Row="5" Name="databaseServerTextBlock" VerticalAlignment="Center" HorizontalAlignment="Center"></TextBlock>
+        <TextBox Name="databaseServerTextBox" Grid.Column="1" Grid.Row="5" Text=""></TextBox>
+
+        <TextBlock Text="Użytkownik bazy" Grid.Column="0" Grid.Row="6" Name="databaseUserTextBlock" VerticalAlignment="Center" HorizontalAlignment="Center"></TextBlock>
+        <TextBox Name="databaseUserTextBox" Grid.Column="1" Grid.Row="6" Text=""></TextBox>
+
+        <TextBlock Text="hasło" Grid.Column="0" Grid.Row="7" Name="passwordUserTextBlock" VerticalAlignment="Center" HorizontalAlignment="Center"></TextBlock>
+        <TextBox Name="passwordUserTextBox" Grid.Column="1" Grid.Row="7" ></TextBox>
+
+        <TextBlock Text="Baza" Grid.Column="0" Grid.Row="8" Name="databaseTextBlock" VerticalAlignment="Center" HorizontalAlignment="Center"></TextBlock>
+        <TextBox Name="databaseTextBox" Grid.Column="1" Grid.Row="8" Text=""></TextBox>
+
+        <TextBlock Text="Wersja XL" Grid.Column="0" Grid.Row="2" Name="xlVersionTextBlock" VerticalAlignment="Center" HorizontalAlignment="Center"></TextBlock>
+        <TextBox Name="xlVersionTextBox" Grid.Column="1" Grid.Row="2" Text=""></TextBox>
+
+        <Button Name="testConnectionButton" Grid.Column="0" Grid.Row="9" Click="testConnectionButton_Click">Testuj połączenie</Button>
+        <Button Name="saveDataButton" Grid.Column="1" Grid.Row="9" Click="saveDataButton_Click">Zapisz</Button>
+    </Grid>
+</Window>

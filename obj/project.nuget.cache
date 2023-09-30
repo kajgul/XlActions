@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TM4+c3rKxMNzAeNuFwZQeAStiu1ZSV62R4cFwv+lSlxNx1cMFvGN6KrGKZ7f6/0z/0EohzEOiIgGN7GsrMBjTg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kajtuch\\Desktop\\C# 1\\XL\\XlPrinterUserController\\XlPrinterUserController.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kajtuch\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
