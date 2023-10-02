@@ -27,13 +27,13 @@ namespace XlPrinterUserController
             var db = GettingData<ConnectionSet>.GetConnectionData(@"C:\Users\kajtuch\Desktop\DBLoginInfo.json");
             databaseServerTextBox.Text = db.ServerName;
             databaseUserTextBox.Text = db.User;
-            passwordUserTextBox.Text = db.Password;
+            passwordUserTextBox.Password = db.Password;
             databaseTextBox.Text = db.DbName;
 
             var xl = GettingData<ConnectionSet>.GetConnectionData(@"C:\Users\kajtuch\Desktop\XLLoginInfo.json");
             keyServerTextBox.Text = db.ServerName;
             xlUserTextBox.Text = xl.User;
-            xlPasswordTextBox.Text = xl.Password;
+            xlPasswordTextBox.Password = xl.Password;
             xlBaseTextBox.Text = xl.DbName;
             xlVersionTextBox.Text = xl.Version.ToString();
         }
@@ -56,15 +56,16 @@ namespace XlPrinterUserController
         {
             var dataToSave = new SaveSerializedData(databaseServerTextBox.Text,
             databaseUserTextBox.Text,
-            passwordUserTextBox.Text,
+            passwordUserTextBox.Password,
             databaseTextBox.Text,
             keyServerTextBox.Text,
             xlUserTextBox.Text,
-            xlPasswordTextBox.Text,
+            xlPasswordTextBox.Password,
             xlBaseTextBox.Text,
             xlVersionTextBox.Text);
 
             dataToSave.Save();
+            MessageBox.Show("Zapisano nowe dane");
         }
     }
 }

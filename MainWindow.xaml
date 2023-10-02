@@ -11,7 +11,7 @@
             <ColumnDefinition></ColumnDefinition>
             <ColumnDefinition></ColumnDefinition>
         </Grid.ColumnDefinitions>
-        
+
         <Grid.RowDefinitions>
             <RowDefinition></RowDefinition>
             <RowDefinition></RowDefinition>
@@ -35,7 +35,7 @@
         <TextBox Name="xlUserTextBox" Grid.Column="1" Grid.Row="3" Text=""></TextBox>
 
         <TextBlock Text="Hasło XL" Grid.Column="0" Grid.Row="4" Name="xlPasswordTextBlock" VerticalAlignment="Center" HorizontalAlignment="Center"></TextBlock>
-        <TextBox Name="xlPasswordTextBox" Grid.Column="1" Grid.Row="4" Text=""></TextBox>
+        <PasswordBox Name="xlPasswordTextBox" Grid.Column="1" Grid.Row="4" ></PasswordBox>
 
         <TextBlock Text="Serwer bazy danych" Grid.Column="0" Grid.Row="5" Name="databaseServerTextBlock" VerticalAlignment="Center" HorizontalAlignment="Center"></TextBlock>
         <TextBox Name="databaseServerTextBox" Grid.Column="1" Grid.Row="5" Text=""></TextBox>
@@ -44,7 +44,7 @@
         <TextBox Name="databaseUserTextBox" Grid.Column="1" Grid.Row="6" Text=""></TextBox>
 
         <TextBlock Text="hasło" Grid.Column="0" Grid.Row="7" Name="passwordUserTextBlock" VerticalAlignment="Center" HorizontalAlignment="Center"></TextBlock>
-        <TextBox Name="passwordUserTextBox" Grid.Column="1" Grid.Row="7" ></TextBox>
+        <PasswordBox Name="passwordUserTextBox" Grid.Column="1" Grid.Row="7" PasswordChar="●"></PasswordBox>
 
         <TextBlock Text="Baza" Grid.Column="0" Grid.Row="8" Name="databaseTextBlock" VerticalAlignment="Center" HorizontalAlignment="Center"></TextBlock>
         <TextBox Name="databaseTextBox" Grid.Column="1" Grid.Row="8" Text=""></TextBox>
